@@ -1,3 +1,3 @@
 # Demo
 
-This is just a demo to learn git and github
+This is just a demo to learn Git and GitHub
